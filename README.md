@@ -33,6 +33,3 @@ Sobre a planilha, fiz algumas modificações no nome como no campo "Renda mensal
 Alterei o aporte mensal sugerido para 10% ao invés de 30%, visto que algumas literaturas dizem que pelo menos 10% da renda mensal deve ser utilizada para guardar. 
 
 Sobre as fórmulas: achei muito interessante podermos dar nome as fórmulas; não sabia dessa possibilidade. 
-
-Sobre a proteção da planilha: faço o upload de duas planilhas, uma desbloqueada e outra bloqueada (como se fosse para um usuário final, para evitar que ele edite a planilha e perca as fórmulas). 
-A senha da planilha protegida é diopro.
